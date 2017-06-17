@@ -1,0 +1,13 @@
+welcome: Welcome to Weather Now. You can start by asking me to update you on weather, or ask for help. What would you like to do?
+
+empty: I did not get that. Please provide a search query. You can ask me weather in a location.
+
+results: I found the weather update you requested. Would you like to hear it?
+
+weather_update: Temperature in {{location}} is {{temperature}} degrees.
+
+exit: Thank you for using Weather Now.
+
+help: You can use Weather Now to find weather.
+
+bye: Thank you for using Weather Now.
